@@ -53,7 +53,7 @@ const metadata = {
     actions={[
       {
         variant: 'primary',
-        text: 'Stake.NOW',
+        text: 'Start Staking',
         href: 'https://github.com/arthelokyo/astrowind',
         target: '_blank',
         icon: 'tabler:download',
@@ -61,13 +61,6 @@ const metadata = {
       {
         text: 'primary',
         text: 'Exchange',
-        href: 'https://github.com/arthelokyo/astrowind',
-        target: '_blank',
-        icon: 'tabler:download',
-      },
-      {
-        text: 'primary',
-        text: 'Wallet',
         href: 'https://github.com/arthelokyo/astrowind',
         target: '_blank',
         icon: 'tabler:download',
@@ -245,7 +238,7 @@ const metadata = {
     </Fragment>
 
     <Fragment slot="subtitle">
-      Experience secure and low-cost Proof of Stake (PoS) services with us. Rely on us to safeguard your assets while ensuring your control in.
+      Experience secure and low-cost Proof of Stake (PoS) services with us. Rely on us to safeguard your assets while ensuring your funds remain in your control.
     </Fragment>
   </CallToAction>
   
