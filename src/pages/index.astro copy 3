@@ -58,13 +58,6 @@ const metadata = {
         target: '_blank',
         icon: 'tabler:download',
       },
-      {
-        text: 'primary',
-        text: 'Exchange',
-        href: 'https://github.com/arthelokyo/astrowind',
-        target: '_blank',
-        icon: 'tabler:download',
-      },
     ]}
   >
     <Fragment slot="title">
