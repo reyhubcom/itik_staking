@@ -6,19 +6,19 @@ export const headerData = {
       text: 'Staking',
       links: [
         {
-          text: 'SaaS',
+          text: 'Bitcoin Staking',
           href: getPermalink('/homes/saas'),
         },
         {
-          text: 'Startup',
+          text: 'Stake [ ETH ]',
           href: getPermalink('/homes/startup'),
         },
         {
-          text: 'Mobile App',
+          text: 'Stake [ SOL ]',
           href: getPermalink('/homes/mobile-app'),
         },
         {
-          text: 'Personal',
+          text: 'Stake [ MON ]',
           href: getPermalink('/homes/personal'),
         },
       ],
@@ -89,7 +89,7 @@ export const headerData = {
       text: 'Wallet',
       links: [
         {
-          text: 'Blog List',
+          text: 'BUY Tangem',
           href: getBlogPermalink(),
         },
         {
