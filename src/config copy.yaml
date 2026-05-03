@@ -1,6 +1,6 @@
 site:
-  name: ITIK.xyz
-  site: 'https://itik.xyz'
+  name: AstroWind
+  site: 'https://astrowind.vercel.app'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: ITIK.xyz
-    template: 'ITIK.xyz'
-  description: "A crypto validator is a node operator responsible for verifying transactions, creating new blocks, and maintaining network security in Proof-of-Stake (PoS) blockchains. By staking native tokens as collateral, they earn rewards, but risk slashing (losing staked funds) if they validate fraudulent transactions or experience significant downtime."
+    default: AstroWind
+    template: '%s — AstroWind'
+  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: ITIK.xyz
+    site_name: AstroWind
     images:
       - url: '~/assets/images/default.png'
         width: 1200
