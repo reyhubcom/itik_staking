@@ -112,7 +112,7 @@ export const headerData = {
     },
     {
       text: 'Exchange',
-      href: '#',
+      href: '/home/exchange',
     },
   ],
   actions: [{ text: 'Start Staking', href: 'https://github.com/arthelokyo/astrowind', target: '_blank' }],
