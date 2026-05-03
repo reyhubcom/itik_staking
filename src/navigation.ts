@@ -57,32 +57,13 @@ export const headerData = {
       ],
     },
     {
-      text: 'Landing',
+      text: 'Lending',
       links: [
         {
           text: 'Lead Generation',
           href: getPermalink('/landing/lead-generation'),
         },
-        {
-          text: 'Long-form Sales',
-          href: getPermalink('/landing/sales'),
-        },
-        {
-          text: 'Click-Through',
-          href: getPermalink('/landing/click-through'),
-        },
-        {
-          text: 'Product Details (or Services)',
-          href: getPermalink('/landing/product'),
-        },
-        {
-          text: 'Coming Soon or Pre-Launch',
-          href: getPermalink('/landing/pre-launch'),
-        },
-        {
-          text: 'Subscription',
-          href: getPermalink('/landing/subscription'),
-        },
+       
       ],
     },
     {
@@ -100,7 +81,7 @@ export const headerData = {
       href: '/home/exchange',
     },
   ],
-  actions: [{ text: 'Start Staking', href: 'https://github.com/arthelokyo/astrowind', target: '_blank' }],
+  actions: [{ text: 'Start Staking', href: '/home/staking', target: '' }],
 };
 
 export const footerData = {
