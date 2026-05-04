@@ -28,7 +28,7 @@ export const headerData = {
       links: [
         {
           text: 'MEME Coin',
-          href: getPermalink('/home/meme'),
+          href: getPermalink('#'),
         },
         
       ],
@@ -38,7 +38,7 @@ export const headerData = {
       links: [
         {
           text: 'DeFi',
-          href: getPermalink('/home/defi'),
+          href: getPermalink('#'),
         },
        
       ],
@@ -82,7 +82,7 @@ export const footerData = {
         { text: 'Partners', href: '#' },
         { text: 'Atom', href: '#' },
         { text: 'Electron', href: '#' },
-        { text: 'AstroWind Desktop', href: '#' },
+        { text: 'Desktop', href: '#' },
       ],
     },
     {
@@ -117,7 +117,7 @@ export const footerData = {
     { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
     { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
-    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/arthelokyo/astrowind' },
+    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/' },
   ],
   footNote: `
     Made by <a class="text-blue-600 underline dark:text-muted" href="#"> Rey</a> · 2026 ITIK.xyz All Rights Reserved.
