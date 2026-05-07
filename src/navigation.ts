@@ -76,13 +76,13 @@ export const footerData = {
       ],
     },
     {
-      title: 'Platform',
+      title: 'Products',
       links: [
-        { text: 'Developer API', href: '#' },
-        { text: 'Partners', href: '#' },
-        { text: 'Atom', href: '#' },
-        { text: 'Electron', href: '#' },
-        { text: 'Desktop', href: '#' },
+        { text: 'Bridge Crypto', href: '/home/bridge' },
+        { text: 'DeFi', href: '#' },
+        { text: 'Yields', href: '#' },
+        { text: 'Farming', href: '#' },
+        { text: 'AirDrop', href: '#' },
       ],
     },
     {
