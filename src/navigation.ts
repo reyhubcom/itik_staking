@@ -64,15 +64,15 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Product',
+      title: 'Staking',
       links: [
-        { text: 'Features', href: '#' },
-        { text: 'Security', href: '#' },
-        { text: 'Team', href: '#' },
-        { text: 'Enterprise', href: '#' },
-        { text: 'Customer stories', href: '#' },
-        { text: 'Pricing', href: '#' },
-        { text: 'Resources', href: '#' },
+        { text: 'Stake [ BTC ]', href: '/stake/BTC' },
+        { text: 'Stake [ ETH ]', href: '/stake/ETH' },
+        { text: 'Stake [ SOL ]', href: '/stake/SOL' },
+        { text: 'Stake [ MON ]', href: '/stake/MON' },
+        { text: 'Stake [ BNB ]', href: '/stake/BNB' },
+        { text: 'Stake [ POL ]', href: '/stake/POL' },
+        { text: 'Stake [ FTM ]', href: '/stake/FTM' },
       ],
     },
     {
